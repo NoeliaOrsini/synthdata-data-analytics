@@ -75,6 +75,9 @@ Este proyecto fue desarrollado de forma exclusiva como Trabajo Práctico Integra
 ---
 
 ## 👩‍💻 Autora
+
 **Noelia Orsini**
-Profesional con sólida formación legal y desarrolladora Back-End Jr. apasionada por el cruce entre la tecnología, el análisis de datos y la automatización. Aplico metodologías analíticas rigurosas y promuevo la integración de la inteligencia artificial bajo principios éticos y metodologías Human-in-the-Loop (HITL).
+
+Soy Abogada, Counselor y Programadora. Actualmente trabajo en la intersección del derecho con la tecnología aportando una mirada humana. Además, me encuentro en constante perfeccionamiento en inteligencia artificial, análisis de datos y procesos de automatización mediante el uso de arquitecturas RAG y metodologías *Human-in-the-Loop* (HITL).
+
 🔗 https://www.linkedin.com/in/noelia-orsini
